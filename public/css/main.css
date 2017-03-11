@@ -2,3 +2,13 @@ body {
 	background-color: #fcf2cf;
 	font-size: 1em; 
 }
+
+#logo {
+	height: 500px;
+	width: auto;
+}
+
+#contactsimg {
+	height: 200px;
+	width: auto;
+}
